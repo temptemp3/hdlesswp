@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://temptemp3.github.io/sitemap.xml
+Sitemap: https://temptemp3.github.io/hdlesswp/sitemap.xml
 Host: https://temptemp3.github.io
